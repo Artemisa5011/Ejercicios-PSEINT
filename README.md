@@ -1,1 +1,1 @@
-# Ejercicios-PSEINT
+# Ejercicios-Python
